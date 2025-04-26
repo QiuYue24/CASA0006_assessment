@@ -1,0 +1,34 @@
+District,Code,Non_White_Proportion
+Barking and Dagenham,E09000002,55.1
+Barnet,E09000003,42.3
+Bexley,E09000004,28.1
+Brent,E09000005,65.4
+Bromley,E09000006,23.5
+Camden,E09000007,40.5
+Croydon,E09000008,51.6
+Ealing,E09000009,56.8
+Enfield,E09000010,47.9
+Greenwich,E09000011,44.3
+Hackney,E09000012,46.9
+Hammersmith and Fulham,E09000013,36.8
+Haringey,E09000014,43.0
+Harrow,E09000015,63.5
+Havering,E09000016,24.7
+Hillingdon,E09000017,51.8
+Hounslow,E09000018,55.9
+Islington,E09000019,37.8
+Kensington and Chelsea,E09000020,36.3
+Kingston upon Thames,E09000021,31.7
+Lambeth,E09000022,45.0
+Lewisham,E09000023,48.5
+Merton,E09000024,39.8
+Newham,E09000025,69.2
+Redbridge,E09000026,65.2
+Richmond upon Thames,E09000027,19.5
+Southwark,E09000028,48.6
+Sutton,E09000029,31.7
+Tower Hamlets,E09000030,60.6
+Waltham Forest,E09000031,47.2
+Wandsworth,E09000032,32.2
+Westminster,E09000033,44.8
+"In order to protect against disclosure of personal information, records have been swapped between different geographic areas and counts perturbed by small amounts. Small counts at the lowest geographies will be most affected.",,

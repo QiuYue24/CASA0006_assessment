@@ -1,0 +1,189 @@
+borough,fsm_percent
+Kingston upon Thames,9.649452034
+Wandsworth,19.58461271
+Hackney,32.16860946
+Southwark,26.40828172
+Harrow,11.41990771
+Hammersmith and Fulham,22.58496248
+Kensington and Chelsea,24.27034198
+Lambeth,27.30608797
+Lewisham,18.71459367
+Ealing,16.80911162
+Waltham Forest,17.61743793
+Westminster,26.71641132
+Croydon,22.99090707
+Enfield,19.36936937
+Richmond upon Thames,9.615113492
+Barking and Dagenham,18.71430829
+Havering,14.22933786
+Barnet,14.42805103
+Brent,13.43803458
+Newham,19.63016971
+City of London,10.14492754
+Hillingdon,15.04959116
+Bromley,11.2349207
+Redbridge,13.04549436
+Camden,31.11640002
+Tower Hamlets,33.29835836
+Islington,32.30243347
+Merton,17.48784838
+Bexley,13.13407033
+Haringey,19.59736007
+Sutton,12.24627876
+Greenwich,19.95837809
+Hounslow,17.09283678
+Hammersmith and Fulham,45.09803922
+Hillingdon,24.81751825
+Haringey,35.16483516
+Waltham Forest,33.63636364
+Westminster,42.37288136
+Harrow,46.51162791
+Southwark,32.43243243
+Tower Hamlets,19.7080292
+Havering,30.76923077
+Islington,60.63829787
+Lewisham,37.6146789
+Enfield,41.42857143
+Hammersmith and Fulham,38.57142857
+Barking and Dagenham,30.76923077
+Ealing,37.20930233
+Sutton,63
+Barnet,51.2195122
+Bexley,50
+Lambeth,52.5
+Bromley,51.47058824
+Redbridge,27.35042735
+Camden,55.02645503
+Hillingdon,52.11267606
+Hounslow,37.38317757
+Croydon,42.1686747
+Merton,11.29032258
+Wandsworth,44.92753623
+Newham,50.83333333
+Kensington and Chelsea,72.91666667
+Brent,33.33333333
+Haringey,18.36734694
+Greenwich,29.33333333
+Hackney,20.63492063
+Kingston upon Thames,36.84210526
+Waltham Forest,0
+Westminster,16.42857143
+Hackney,13.14553991
+Hammersmith and Fulham,18.91891892
+Southwark,25.36873156
+Harrow,0
+Islington,23.03206997
+Barnet,0
+Lewisham,4.119850187
+Tower Hamlets,6.398809524
+Croydon,0
+Ealing,0
+Richmond upon Thames,0
+Lambeth,18.50649351
+Sutton,0
+Camden,18.32061069
+Hillingdon,0
+Newham,0
+Kensington and Chelsea,27.64976959
+Wandsworth,25.89285714
+Haringey,0
+Greenwich,23.12661499
+Brent,12.24489796
+Kingston upon Thames,0
+Waltham Forest,16.07052109
+Westminster,25.52462082
+Hackney,30.01992032
+Hammersmith and Fulham,23.83500341
+Southwark,25.08634868
+Harrow,9.5463138
+Havering,14.50048702
+Lewisham,16.75453311
+Enfield,18.34086646
+Barking and Dagenham,17.93406423
+Croydon,23.87893053
+Richmond upon Thames,8.9855731
+Barnet,14.29615972
+Bexley,14.15674305
+Lambeth,26.85493054
+Bromley,11.20609486
+Ealing,16.52436581
+Redbridge,10.82232209
+City of London,10.14492754
+Camden,31.13297919
+Hillingdon,14.62540288
+Hounslow,15.51661485
+Merton,16.61442006
+Tower Hamlets,30.58443328
+Islington,30.34030889
+Newham,18.22887521
+Kensington and Chelsea,25.09010258
+Wandsworth,19.20101831
+Haringey,18.02911042
+Sutton,13.39099625
+Greenwich,20.19780969
+Brent,12.07106711
+Kingston upon Thames,10.20004096
+Kingston upon Thames,8.442809599
+Westminster,27.19967859
+Hackney,34.79352679
+Southwark,27.33756826
+Harrow,13.5855546
+Waltham Forest,19.06387734
+Hammersmith and Fulham,19.45222533
+Lewisham,20.99051481
+Ealing,16.92256182
+Enfield,19.62782637
+Barking and Dagenham,19.23610726
+Croydon,21.26725754
+Richmond upon Thames,10.2435737
+Havering,13.40816963
+Barnet,14.27375319
+Hillingdon,14.5001416
+Lambeth,26.76037118
+Newham,21.95638675
+Redbridge,14.9148752
+Hounslow,18.27157928
+Bromley,10.23383063
+Merton,18.20255002
+Camden,30.82640587
+Tower Hamlets,37.42797135
+Islington,34.31338637
+Kensington and Chelsea,22.4667349
+Bexley,11.30007933
+Haringey,21.58212085
+Sutton,10.1450005
+Greenwich,18.61209964
+Wandsworth,18.51708973
+Brent,14.30762381
+Kingston upon Thames,24.02912621
+Wandsworth,41.56769596
+Hackney,58.2278481
+Southwark,47.63832659
+Harrow,29.31034483
+Hammersmith and Fulham,54.6875
+Kensington and Chelsea,31.27753304
+Lewisham,47.83258595
+Ealing,34.96420048
+Enfield,48.14814815
+Waltham Forest,42.35588972
+Westminster,57.74058577
+Croydon,41.58233671
+Richmond upon Thames,29.60288809
+Barking and Dagenham,39.00862069
+Havering,31.68044077
+Barnet,35.08196721
+Hillingdon,40.74492099
+Lambeth,64.6234676
+Newham,46.52777778
+Redbridge,35.56338028
+Hounslow,35.30166881
+Bromley,40.99722992
+Camden,31.01361573
+Tower Hamlets,52.18658892
+Islington,56.80473373
+Merton,42.48704663
+Bexley,37.57225434
+Haringey,44.76386037
+Sutton,42.67857143
+Greenwich,44.27184466
+Brent,39.1184573
